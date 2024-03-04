@@ -15,7 +15,7 @@
 ## Portfolio:
 - [Kotlin - Orgs aplicativo Android de cadastro de produtos](https://github.com/ThalesDomingos/Orgs)
 - [Web - Site aplicando HTML, CSS, JS](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [kotlin - Consumo de Web API](https://github.com/ThalesDomingos/Ceep-Kotlin-Web-API)
+- [kotlin - Ceep consumo de Web API](https://github.com/ThalesDomingos/Ceep-Kotlin-Web-API)
 ##
 <!-- GIF -->
 <p align="left">
